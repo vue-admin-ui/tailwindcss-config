@@ -9,7 +9,7 @@ npm i -D tailwindcss@^1.8.4 tailwindcss-important@^1.0.0
 ```
 
 ```sh
-npm i -D https://github.com/vue-admin-ui/tailwindcss-config.git#v1.0.0
+npm i -D https://github.com/vue-admin-ui/tailwindcss-config.git#v1.0.1
 ```
 
 ### Config Usage
