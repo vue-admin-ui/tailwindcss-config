@@ -1,1 +1,3 @@
-# tailwindcss-config
+# Tailwindcss Config
+
+...and css variables.
